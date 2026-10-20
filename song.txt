@@ -2,3 +2,4 @@ My first file
 My second file
 New FileVisual practice
 The sky is blue.
+The sky is green.
