@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore common log files and caches
+*.log
+.cache/
+
+# Ignore local configuration or password files
+.env
